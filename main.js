@@ -65,6 +65,7 @@ const init = () => {
     addPassenger('Loki', 6, false, 'back');
     addPassenger('Mom', 10, false, 'middle');
     addPassenger('Dad', 7, false, 'front');
+    addPassenger('A bum', 0, true, 'middle')
     // addPassenger('middledude', 15, true, 'middle');
 
     // const firstPassenger = unloadPassenger(struggleBus, 'front');
